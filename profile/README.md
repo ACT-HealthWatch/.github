@@ -1,7 +1,8 @@
 ## 헬스워치(HealthWatch)
 ### 개인 맞춤형 디지털 헬스케어 서비스
 
-![image](https://github.com/ACT-HealthWatch/.github/assets/55977356/ea98df03-3ba6-48d3-81be-13a01ade1aee)
+![image](https://github.com/ACT-HealthWatch/.github/assets/55977356/d376d635-62d2-4efc-9b3d-5f4893a1df65)
+
 
 ---
 > 산업통상자원부가 수행한 디지털 헬스케어 산업 실태조사 결과에 따르면 , 국내 디지털 헬스케어 산업
