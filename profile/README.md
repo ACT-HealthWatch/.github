@@ -27,13 +27,13 @@
 ## 개발 환경  
 ### Developed & Tested:  
 
-Linux(Ubuntu20.04, Archi6.4.7) / Mac / Windows 10  
+Linux(Ubuntu20.04, Archi6.4.7) / Mac(Ventura 13.4) / Windows 10  
 <br/>  
-### Development Tools
+### Development & Design Tools:
 
 Visual Studio Code, Expo Client, Adobe XD  
 <br/> 
-### Used Frameworks
+### Used Frameworks:
 
 Frontend: React-Native  
 Backend: Python FastAPI, Docker + Heroku Instance  
