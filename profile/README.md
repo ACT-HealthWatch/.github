@@ -25,7 +25,8 @@
 <br/>  
 
 ## 개발 환경  
-<img src="https://github.com/ACT-HealthWatch/.github/assets/55977356/2f687a10-3735-4861-9ea2-6d87f80bca84"/>  
+<img src="https://github.com/ACT-HealthWatch/.github/assets/55977356/2f687a10-3735-4861-9ea2-6d87f80bca84"/>   
+
 ### Developed & Tested:  
 
 Linux(Ubuntu20.04, Archi6.4.7) / Mac(Ventura 13.4) / Windows 10  
