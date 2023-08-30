@@ -26,6 +26,8 @@
 
 ## 개발 환경  
 <img src="https://github.com/ACT-HealthWatch/.github/assets/55977356/2f687a10-3735-4861-9ea2-6d87f80bca84"/>   
+<img src="https://github.com/ACT-HealthWatch/.github/assets/55977356/2229741f-9736-48af-950c-5045faad5e4e"/> 
+
 
 ### Developed & Tested:  
 
